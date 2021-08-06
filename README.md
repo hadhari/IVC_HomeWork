@@ -1,2 +1,2 @@
 # IVC_HomeWork
-As part of IVC From Data to Agile Decision Making
+As part of ITB Summer Course: IVC From Data to Agile Decision Making
